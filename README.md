@@ -1,4 +1,4 @@
-# 🏋️‍♂️ Calorie Calculator (Calculadora de Calorias em Clojure)
+# 🍔 Calorie Calculator (Calculadora de Calorias em Clojure)
 
 Uma aplicação completa para gerenciamento e cálculo de saldo calórico diário, desenvolvida em **Clojure**. O projeto foi estruturado seguindo rigorosamente os princípios da **Programação Funcional**, separando a interface do usuário (CLI) da inteligência de negócio e armazenamento (API HTTP).
 
